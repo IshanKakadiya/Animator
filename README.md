@@ -1,16 +1,24 @@
-# planet_app
+# Planet App
 
-A new Flutter project.
+Simple ***Planet App*** Created with **Flutter Freamwork** And **Dart Language**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Functionality
 
-A few resources to get you started if this is your first Flutter project:
+- Attractive UI
+- User Friendly
+- All Planet Data Available
+- 
+## Screenshots 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://user-images.githubusercontent.com/113764228/204088311-d0b58356-df6e-454f-9bd9-2bab4df73530.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/204088305-23a1f55c-7c01-464d-bb26-199bf6b45469.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/204088308-52499efe-79cf-45b9-81a5-7975d25dd9a7.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/204088310-47511ce4-e0e9-453f-a860-d3a7371bbcc9.jpg" width="400"> &nbsp; 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at ishankakadiya7@gmail.com
+
